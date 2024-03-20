@@ -9,5 +9,9 @@ what is this?
 	well, deadline is tomorrow, i simply went ahead and documented the expected results.
 	very fucking shameful i will need a refresher and got little to no time to refresh.
 	Crashing muh car was not very fun, i must say. its costing me tons.
-	oh husbando, you crash caru intu neighboru. Now we're homeress. 
+	oh husbando, you crash caru intu neighboru. Now we're homeress.
+
+1320-200324
+	Went ahead and coded a simple menu. works with pointers awreetus awrightus.
+		
 

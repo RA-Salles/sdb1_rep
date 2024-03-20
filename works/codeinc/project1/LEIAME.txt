@@ -8,6 +8,8 @@ warning 2: THE PROGRAM IS NOT PRODUCTION READY AND IS PROVIDED AS-IS FOR THE USE
 		FUCKING UP A SELECTION OR SOMETHING !!!WILL!!! CAUSE A SEGMENTATION FAULT AND END THE EXECUTION ABRUPTLY.
 		USE AS ADVISED IN THE FOLLOWING INSTRUCTIONS. IF THE PROGRAM IS COMPILED AND USED, YOU AGREE TO HAVE READ 
 		THIS README AND TO FOLLOW THE INSTRUCTIONS.
+warning 3: the program was coded and tested in windows 10. It was NOT made for portability and was NOT made with the necessary care to ensure portability 
+with the least effort. If you truly want it working, use windows 10 for this one. Else, do a ritual dance and it might just work in your amiga64.
 
 
 0. INTRODUCTION -> WHAT DOES THIS DOES?
