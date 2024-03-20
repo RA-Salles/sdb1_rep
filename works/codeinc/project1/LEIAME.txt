@@ -1,0 +1,41 @@
+aviso 1: todos os comentários e documentação a partir daqui serão em inglês.
+warning 1.5: the following vulgar language is used to express very emotionally why you should follow
+		the provided instructions with precision. If you feel reasonably confident operating 
+		computers, read and use the program. Else, please, close this README file and never ever
+		touch this software, as it will, most probably, cause unforeseen consequences. Act with 
+		precision and some confidence.
+warning 2: THE PROGRAM IS NOT PRODUCTION READY AND IS PROVIDED AS-IS FOR THE USER. PRETTY PLEASE, BEWARE OF FUCKUPS, I'VE WRITEN NO SINGLE LINE OF ERROR PREVENTION.
+		FUCKING UP A SELECTION OR SOMETHING !!!WILL!!! CAUSE A SEGMENTATION FAULT AND END THE EXECUTION ABRUPTLY.
+		USE AS ADVISED IN THE FOLLOWING INSTRUCTIONS. IF THE PROGRAM IS COMPILED AND USED, YOU AGREE TO HAVE READ 
+		THIS README AND TO FOLLOW THE INSTRUCTIONS.
+
+
+0. INTRODUCTION -> WHAT DOES THIS DOES?
+	this program serves to test basic characteristcs of a db.
+	it allows the user to register someone as an owner of a car, getting the necessary info for registration.
+	it allows the visualization of the saved data after registering.
+	for every new session, the program will overwrite previous saved data.
+	It will display the saved data when you finish registering the session's data.
+	There is NO way to retrieve the data, as it was not required to complete the assignment.
+
+1. USING THE PROGRAM
+	1.1. START
+		upon start, you will be presented with two options:
+			1. register
+			2. exit
+
+		input the number according to the functionality you wish to use.
+
+	1.2. REGISTERING
+		Upon selecting to register, the program will ask for information. 
+		The buffer size will be set to 128 for all entries, act accordingly.
+		The number of people and cars belonging to such people will be based on 
+		user's choice. Keep track of your memory for this, eh? It should at most
+		use kilobytes of data, but pretty please don't try to register a million
+		dudes at once if you wish to have a functioning machine (and fingers) after the execution.
+		When finished inputing info, the program should be able to save the data.
+		then, it will ask if you wish to input more data or visualize and exit.
+		act accordingly.
+		After that, you might want to stop, else no data will be saved, most probably.
+		The program will display the data and exit upon input.
+			
