@@ -13,5 +13,13 @@ what is this?
 
 1320-200324
 	Went ahead and coded a simple menu. works with pointers awreetus awrightus.
-		
 
+1550-20032024
+	Started the W O R K S. Thing is, people will prolly be stored in a vector with people pointers.
+	cars should be like:
+	
+	person1 - car1, car2, car3, etc..
+	person2 - car1, etc...
+	etc...
+
+	which means a car will be organized inside a car ***cars vector, which makes me want to kill someone right now :)
