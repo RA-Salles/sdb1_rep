@@ -30,7 +30,7 @@ with the least effort. If you truly want it working, use windows 10 for this one
 
 	1.2. REGISTERING
 		Upon selecting to register, the program will ask for information. 
-		The buffer size will be set to 128 for all entries, act accordingly.
+		The buffer size will be set to 128 for most entries, act accordingly.
 		The number of people and cars belonging to such people will be based on 
 		user's choice. Keep track of your memory for this, eh? It should at most
 		use kilobytes of data, but pretty please don't try to register a million

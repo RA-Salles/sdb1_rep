@@ -5,6 +5,11 @@ what is this?
 		that".
 	Very fun.
 
+	IF YOU WISH TO UNDERSTAND HOW TO OPERATE THIS PIECE OF SHIT SOFTWARE, GO TO "LEIAME.txt".
+	THIS RIGHT HERE IS AN EXTENSION OF INLINE COMMENTS AND SERVES AS A RECORDING OF MY 
+	PROCESS OF THOUGHT.
+	
+
 0159-200324
 	well, deadline is tomorrow, i simply went ahead and documented the expected results.
 	very fucking shameful i will need a refresher and got little to no time to refresh.
@@ -23,3 +28,9 @@ what is this?
 	etc...
 
 	which means a car will be organized inside a car ***cars vector, which makes me want to kill someone right now :)
+
+2101-20032024
+	According to brazilian laws, specially after the releasing of the crlv, 
+	only oficial identity and crv from car is needed to perform a transference and,
+	therefore, own a car. Using DETRAN's database, you can get other info with just
+	the crv, meaning we'll need only that
