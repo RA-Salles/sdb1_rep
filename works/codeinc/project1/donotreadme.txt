@@ -34,3 +34,8 @@ what is this?
 	only oficial identity and crv from car is needed to perform a transference and,
 	therefore, own a car. Using DETRAN's database, you can get other info with just
 	the crv, meaning we'll need only that
+
+1137-21032024
+	As there's little to no time left to code and design this project, I will proceed to carry on with 
+	deliverance of the code. very very fun.
+	

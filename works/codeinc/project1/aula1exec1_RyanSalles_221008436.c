@@ -2,6 +2,7 @@
 coded in 20032024 by bclocvst. Forgiveness is asked for the terrible software that comes forth.
 */
 //NOTE1: "->" operator is used to access data from a struct pointer.
+//NOTE2: THIS CODE IS NOT, I REPEAT, NOT FINISHED! I'll erase this when it is done.
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -71,11 +72,12 @@ void runrest(holder *someholder){
         zetta2 = nums[i];
         for (int j = 0; j < zetta2; j++){ //this guy should run for every person's informed number of vehicles.
             car *somecar = malloc(sizeof(car));
-
+            char newcrv[12];
+            printf("input the crv of the car:\n");
+            scanf("%s", newcrv);
         }
     }
-
-    return
+    return;
 }
 
 int main(){

@@ -10,9 +10,12 @@ warning 2: THE PROGRAM IS NOT PRODUCTION READY AND IS PROVIDED AS-IS FOR THE USE
 		THIS README AND TO FOLLOW THE INSTRUCTIONS.
 warning 3: the program was coded and tested in windows 10. It was NOT made for portability and was NOT made with the necessary care to ensure portability 
 with the least effort. If you truly want it working, use windows 10 for this one. Else, do a ritual dance and it might just work in your amiga64.
+warning 4: this documentation was made to design and predict how the program should work. The proceedures here detailed will NOT work
+	on the unfinished version of the code.
 
 
-0. INTRODUCTION -> WHAT DOES THIS DOES?
+
+0. INTRODUCTION -> WHAT DOES THIS DO?
 	this program serves to test basic characteristcs of a db.
 	it allows the user to register someone as an owner of a car, getting the necessary info for registration.
 	it allows the visualization of the saved data after registering.
